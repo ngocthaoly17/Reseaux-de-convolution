@@ -2,7 +2,7 @@
 """
 Created on Sat Oct 27 20:52:43 2018
 
-@author: charl
+@author: ngocthaoly
 """
 
 # Plot ad hoc mnist instances
