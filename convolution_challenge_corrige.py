@@ -5,13 +5,6 @@ Created on Wed Dec  5 11:45:29 2018
 @author: ngocthaoly
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 30 09:38:17 2018
-
-@author: charl
-"""
-
 from scipy.ndimage import imread
 import os
 import numpy as np
